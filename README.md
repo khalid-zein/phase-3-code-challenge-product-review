@@ -21,3 +21,5 @@ Product - User is a many-to-many relationship.
 Note: You should design your domain/Entity Relationship Diagram(ERD) using any Unified Modelling Language such as starUML Links to an external site.before you start coding. You are required to include it in your README.
 
 ## Topics
+
+This assignment focused on the following topics
