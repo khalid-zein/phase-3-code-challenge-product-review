@@ -129,3 +129,13 @@ migration for the reviews table.
   </ul>
  </li>
 </ul>
+
+After creating and running your migration, create your Review class, and use
+
+the seeds.rb file to create Review instances so you can test your code.
+
+ 
+
+Once you've set up your reviews table, work on building out the following
+
+deliverables.
