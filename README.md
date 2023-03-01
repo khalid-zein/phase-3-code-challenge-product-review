@@ -29,3 +29,5 @@ This assignment focused on the following topics
  <li>Class and Instance Methods</li>
  <li>Active Record QueryingProject Setup</li>
 </ul>
+
+## Project Setup
