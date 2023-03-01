@@ -195,3 +195,6 @@ Use the rake console and check that these methods work before proceeding. For
 example, you should be able to call User.first.products and see a list of the
 
 products for the first user in the database based on your seed data, and Review.first.user should return the user for the first review in the database.
+
+
+###  Aggregate and Association Methods
