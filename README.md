@@ -33,3 +33,9 @@ This assignment focused on the following topics:
 ## Project Setup
 
 Once you have the plan in place for the application you want to build take the following steps:
+<ul>
+ <li>Create a new project folder</li>
+ <li>Create a new GitHub repository (NB: ENSURE IT IS PRIVATE).</li>
+ <li>Add your TM as a contributor to the project. (This is only for grading purposes. We promise we won't steal your code)</li>
+ <li>Please make sure you regularly commit to the repository.</li>
+</ul>
