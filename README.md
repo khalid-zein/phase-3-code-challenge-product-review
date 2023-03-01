@@ -141,3 +141,7 @@ Once you've set up your reviews table, work on building out the following
 deliverables.
 
 ### Object Association Methods
+
+Use Active Record association macros and Active Record query methods where
+
+appropriate (i.e. has_many, has_many through, and belongs_to).
