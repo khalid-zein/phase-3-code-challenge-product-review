@@ -139,3 +139,5 @@ the seeds.rb file to create Review instances so you can test your code.
 Once you've set up your reviews table, work on building out the following
 
 deliverables.
+
+### Object Association Methods
