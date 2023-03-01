@@ -2,20 +2,20 @@
 
 ## Introduction
 
-For this assignment, you will be working with a Magazine domain.
+For this assignment, we'll be working with an e-commerce domain. We'll be focusing on the product reviews.
 
  
 
-We have three models: Author, Article, and Magazine.
+We have three models: User, Review, and Product.
 
  
 
-For our purposes, an Author has many Articles, a Magazine has many Articles, and Articles belong to both Author and Magazine.
+For our purposes, a Product has many Users, a User has many Products’ s, and a Review belongs to a User and to a Product.
 
  
 
-Author - Magazine is a many to many relationship.
+Product - User is a many-to-many relationship.
 
  
 
-Note: You should draw your domain on paper or on a whiteboard before you start coding. Remember to identify a single source of truth for your data.
+Note: You should design your domain/Entity Relationship Diagram(ERD) using any Unified Modelling Language such as starUML Links to an external site.before you start coding. You are required to include it in your README.
