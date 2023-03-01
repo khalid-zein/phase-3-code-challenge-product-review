@@ -145,3 +145,15 @@ deliverables.
 Use Active Record association macros and Active Record query methods where
 
 appropriate (i.e. has_many, has_many through, and belongs_to).
+
+
+<ul>
+ <li>Review
+  <ul>
+   <li>Returns the User instance for this Review</li>
+   <li>Returns the Product instance for this Review</li>
+   <li>Review#user</li>
+   <li<Review#product</li>
+  </ul>
+ </li>
+</ul>
