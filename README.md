@@ -231,3 +231,22 @@ products for the first user in the database based on your seed data, and Review.
   </ul>
  </li>
 </ul>
+
+
+<ul>
+ <li>User
+  <ul>
+   <li>User#favorite_product
+    <ul>
+     <li>Returns the product instance that has the highest star rating from this user</li>
+    </ul>
+   </li>
+   <li>User#remove_reviews(product)
+    <ul>
+     <li>Takes a Product (an instance of the Product class) and removes all of this user's reviews for that product</li>
+     <li>You will have to delete any rows from the reviews table associated with this user and the product</li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+</ul>
