@@ -119,3 +119,13 @@ classes when you're approaching the deliverables below.
 Before working on the rest of the deliverables, you will need to create a
 
 migration for the reviews table.
+
+<ul>
+ <li>A Review belongs to a Product, and a Review also belongs to a User. In your migration, create any columns your reviews table will need to establish   these relationships.</li>
+ <li>The reviews table should also have:
+  <ul>
+   <li>A star_rating column that stores an integer.</li>
+   <li>A comment column that stores a string.</li>
+  </ul>
+ </li>
+</ul>
