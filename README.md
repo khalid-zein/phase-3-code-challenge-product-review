@@ -41,3 +41,55 @@ Once you have the plan in place for the application you want to build take the f
 </ul>
 
 ## Instructions
+
+Build out all of the methods listed in the deliverables. The methods are listed
+
+in a suggested order, but you can feel free to tackle the ones you think are
+
+easiest. Be careful: some of the later methods rely on earlier ones.
+
+ 
+
+Remember! This code challenge does not have tests. You cannot run rspec
+
+and you cannot run and learn. You'll need to create your own sample instances so
+
+that you can try out your code on your own. Make sure your associations and
+
+methods work in the console before submitting.
+
+ 
+
+We've provided you with a tool that you can use to test your code. To use it,
+
+run rake console from the command line. This will start a pry session with
+
+your classes are defined. You can test out the methods that you write here. You are
+
+also encouraged to use the seeds.rb file to create sample data to test your
+
+models and associations.
+
+ 
+
+Writing error-free code is more important than completing all of the
+
+deliverables listed - prioritize writing methods that work overwriting more
+
+methods that don't work. You should test your code in the console as you write.
+
+ 
+
+Similarly, messy code that works is better than clean code that doesn't. First,
+
+prioritize getting things working. Then, if there is time in the end, refactor
+
+your code to adhere to best practices.
+
+ 
+
+Before you submit! Save and run your code to verify that it works as you
+
+expect. If you have any methods that are not working yet, feel free to leave
+
+comments describing your progress.
