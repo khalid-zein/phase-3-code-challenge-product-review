@@ -198,3 +198,15 @@ products for the first user in the database based on your seed data, and Review.
 
 
 ###  Aggregate and Association Methods
+
+<ul>
+ <li>Review
+  <ul>
+   <li>Review#print_review
+    <ul>
+     <li>This should puts in the terminal a string formatted as follows: Review for {insert product name} by {insert user name}: {insert review       star_rating}. {insert review comment}</li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+</ul>
