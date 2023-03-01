@@ -39,3 +39,5 @@ Once you have the plan in place for the application you want to build take the f
  <li>Add your TM as a contributor to the project. (This is only for grading purposes. We promise we won't steal your code)</li>
  <li>Please make sure you regularly commit to the repository.</li>
 </ul>
+
+## Instructions
