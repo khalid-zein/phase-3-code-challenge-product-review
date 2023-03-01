@@ -172,3 +172,18 @@ appropriate (i.e. has_many, has_many through, and belongs_to).
   </ul>
  </li>
 </ul>
+
+<ul>
+ <li>User
+  <ul>
+   <li>User#reviews</li>
+   <ul>
+    <li>Returns a collection of all the Reviews that the User has given</li>
+   </ul>
+   <li>User#products</li>
+   <ul>
+    <li>Returns a collection of all the Products that the User has reviewed</li>
+   </ul>
+  </ul>
+ </li>
+</ul>
