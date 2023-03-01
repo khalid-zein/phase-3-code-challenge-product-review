@@ -23,3 +23,9 @@ Note: You should design your domain/Entity Relationship Diagram(ERD) using any U
 ## Topics
 
 This assignment focused on the following topics
+<ul>
+ <li>Active Record Migrations</li>
+ <li>Active Record Associations</li>
+ <li>Class and Instance Methods</li>
+ <li>Active Record QueryingProject Setup</li>
+</ul>
