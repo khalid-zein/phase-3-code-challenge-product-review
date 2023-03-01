@@ -22,7 +22,7 @@ Note: You should design your domain/Entity Relationship Diagram(ERD) using any U
 
 ## Topics
 
-This assignment focused on the following topics
+This assignment focused on the following topics:
 <ul>
  <li>Active Record Migrations</li>
  <li>Active Record Associations</li>
@@ -31,3 +31,5 @@ This assignment focused on the following topics
 </ul>
 
 ## Project Setup
+
+Once you have the plan in place for the application you want to build take the following steps:
