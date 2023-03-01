@@ -210,3 +210,24 @@ products for the first user in the database based on your seed data, and Review.
   </ul>
  </li>
 </ul>
+
+<ul>
+ <li> Product
+  <ul>
+   <li>Product#leave_review(user, star_rating, comment)
+    <ul>
+     <li>Takes a User (an instance of the User class), a star_rating (integer), and a comment (string) as arguments, and creates a new Review in the  database associated with this Product and the User</li>
+    </ul>
+   </li>
+   <li>Product#print_all_reviews</li>
+  </ul>
+ </li>
+ <li>This should puts in the terminal a string representing each review for this product</li>
+ <li>Each review should be formatted as follows: Review for {insert product name} by {insert user name}: {insert review star_rating}. {insert review   comment}</li>
+ 
+ <li>Product#average_rating
+  <ul>
+   <li>Returns a float representing the average star rating for all reviews for this product</li>
+  </ul>
+ </li>
+</ul>
