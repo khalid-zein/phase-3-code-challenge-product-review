@@ -188,6 +188,8 @@ appropriate (i.e. has_many, has_many through, and belongs_to).
  </li>
 </ul>
 
+
+
 Use the rake console and check that these methods work before proceeding. For
 
 example, you should be able to call User.first.products and see a list of the
