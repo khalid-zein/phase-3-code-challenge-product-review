@@ -113,3 +113,5 @@ Remember: Active Record gives your classes access to a lot of methods already!
 Keep in mind what methods Active Record gives you access to in each of your
 
 classes when you're approaching the deliverables below.
+
+### Migrations
