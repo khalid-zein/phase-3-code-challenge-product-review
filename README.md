@@ -95,3 +95,21 @@ expect. If you have any methods that are not working yet, feel free to leave
 comments describing your progress.
 
 ## Deliverables
+
+Create the following classes and their respective methods.
+
+Set up your application so it runs from a configured run file. 
+
+Create instances of the classes on the run file and try out the methods you just created.
+
+Use the notation # for instance methods, and .(dot) for class methods.
+
+Feel free to build out any helper methods if needed.
+
+ 
+
+Remember: Active Record gives your classes access to a lot of methods already!
+
+Keep in mind what methods Active Record gives you access to in each of your
+
+classes when you're approaching the deliverables below.
