@@ -250,3 +250,11 @@ products for the first user in the database based on your seed data, and Review.
   </ul>
  </li>
 </ul>
+
+
+## Author
+Khalid Zein
+
+
+## License
+MIT
